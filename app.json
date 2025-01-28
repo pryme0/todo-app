@@ -12,6 +12,7 @@
     },
     "android": {
       "package": "com.pryme01.expotodoapp"
-    }
+    },
+    "newArchEnabled": true
   }
 }
