@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "decbc07c-b852-4de9-85fb-c79e3ca7bfa0"
+      }
+    },
+    "android": {
+      "package": "com.pryme01.expotodoapp"
+    }
+  }
+}
