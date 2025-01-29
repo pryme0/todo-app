@@ -4,7 +4,7 @@ Welcome to the **React Native Expo Todo App**! This is a simple and intuitive to
 
 ## Features
 
-- Add, edit, and delete tasks.
+- Add and edit tasks.
 - Mark tasks as completed.
 - Clean and user-friendly interface.
 - Built with Expo for easy development and deployment.
